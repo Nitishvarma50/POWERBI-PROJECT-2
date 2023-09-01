@@ -3,6 +3,10 @@
 ## Description
 This project is a comprehensive analysis of the supply-demand gap and customer experience in Uber's ride-hailing service. The analysis is performed using Power BI for data visualization and insights generation. The project aims to provide valuable insights into Uber's operations and make recommendations for enhancing customer satisfaction and operational efficiency.
 
+## Access the Power BI Dashboard
+
+To explore the live Power BI dashboard created for this project, [click here](https://app.powerbi.com/links/CnB0hKDeEQ?ctid=f24149cc-9205-4d16-8e46-11e5b93d0453&pbi_source=linkShare). 📊
+
 ## Features
 - Data exploration, cleaning, and normalization using Power BI
 - Supply-demand analysis
